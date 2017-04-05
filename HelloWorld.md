@@ -1,6 +1,8 @@
 ## This is a markdown file
 
-Course Project: Setting Up Accounts 
+# Course Project: Setting Up Accounts 
 
-Coursera Data Science
+# Course 1: The Data Scientist’s Toolbox
 Student Monika Hunkeler
+
+Coursera Data Science Specialization
