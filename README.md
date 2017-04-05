@@ -1,6 +1,6 @@
-# datasciencecoursera
+# Repo datasciencecoursera
 
-Coursera Data Science Specialization
+## Coursera Data Science Specialization
 
 Course 1: The Data Scientist’s Toolbox
 
